@@ -1,0 +1,28 @@
+{
+  "persons": [
+    {
+      "PersonID": "67C459FD-212D-4EE2-B9BC-0D8AB915FB31",
+      "ADIdentifier": "",
+      "FirstName": "Noel",
+      "SecondName": "Edmonds"
+    },
+    {
+      "PersonID": "8912A051-848A-418E-86A4-84A2550EBC0C",
+      "ADIdentifier": "",
+      "FirstName": "Les",
+      "SecondName": "Dennis"
+    },
+    {
+      "PersonID": "BE00DA6E-3D3D-4472-B6FB-D3CD36360497",
+      "ADIdentifier": "",
+      "FirstName": "Tony",
+      "SecondName": "Robinson"
+    },
+    {
+      "PersonID": "81434FEE-FEE7-4467-A2F3-EE6C4A3635DF",
+      "ADIdentifier": "",
+      "FirstName": "Cilla",
+      "SecondName": "Black"
+    }
+  ]
+}
